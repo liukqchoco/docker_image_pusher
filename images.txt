@@ -9,4 +9,8 @@ pytorch/pytorch:1.6.0-cuda10.1-cudnn7-devel
 pytorch/pytorch:2.1.0-cuda11.8-cudnn8-devel
 pytorch/pytorch:1.7.0-cuda11.0-cudnn8-devel
 
+microsoft/dotnet:1.0.0-preview2-sdk
+java:openjdk-8-jdk-alpine
+python:3.7-alpine
+
 
