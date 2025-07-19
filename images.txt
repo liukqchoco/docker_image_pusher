@@ -10,7 +10,8 @@
 #pytorch/pytorch:1.7.0-cuda11.0-cudnn8-devel
 
 #microsoft/dotnet:1.0.0-preview2-sdk
-java:openjdk-8-jdk-alpine
-python:3.7-alpine
+#java:openjdk-8-jdk-alpine
+#python:3.7-alpine
+lmsysorg/sglang:latest
 
 
